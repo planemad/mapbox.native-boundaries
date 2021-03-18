@@ -1,0 +1,20 @@
+{
+    "version": 1,
+    "layers": {
+        "native_territory_boundaries": {
+            "source": "mapbox://tileset-source/planemad/native_territory_boundaries",
+            "minzoom": 0,
+            "maxzoom": 7
+        },
+        "native_language_boundaries": {
+            "source": "mapbox://tileset-source/planemad/native_language_boundaries",
+            "minzoom": 1,
+            "maxzoom": 7
+        },
+        "native_treaty_boundaries": {
+            "source": "mapbox://tileset-source/planemad/native_treaty_boundaries",
+            "minzoom": 1,
+            "maxzoom": 7
+        }
+    }
+}
