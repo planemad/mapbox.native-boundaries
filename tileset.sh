@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -x
 
 #
 # Script to create and manage a Mapbox tileset using Mapbox Tiling Service
